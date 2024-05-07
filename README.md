@@ -19,12 +19,14 @@ The primary goal of this project is to perform an in-depth exploratory data anal
 
 **Data Collection:**
 
-Here is the link to the dataset: https://www.kaggle.com/datasets/arashnic/fitbit
-
-The Fitbit dataset used in this project is sourced from Kaggle, a platform for data science enthusiasts. It comprises minute-level output data for physical activity, heart rate, and sleep monitoring, collected via a distributed survey conducted on Amazon Mechanical Turk between 03.12.2016 and 05.12.2016. The dataset includes essential variables such as steps taken, distance traveled, calories burned, sleep duration, and activity intensity.
+* Here is the link to the dataset: https://www.kaggle.com/datasets/arashnic/fitbit
+* The Fitbit dataset used in this project is sourced from Kaggle, a platform for data science enthusiasts.
+* It comprises minute-level output data for physical activity, heart rate, and sleep monitoring, collected via a distributed survey conducted on Amazon Mechanical Turk between 03.12.2016 and 05.12.2016.
+* The dataset includes essential variables such as steps taken, distance traveled, calories burned, sleep duration, and activity intensity.
 
 **Data Loading:**
-The dataset is loaded and processed using R programming in the R_notebook.ipynb file. Libraries such as tidyverse for data manipulation and visualization, lubridate for date manipulation, and ggplot2 for data visualization are utilized for effective analysis.
+* The dataset is loaded and processed using R programming in the R_notebook.ipynb file.
+* Libraries such as tidyverse for data manipulation and visualization, lubridate for date manipulation, and ggplot2 for data visualization are utilized for effective analysis.
 
 ## Project Structure
 
@@ -47,10 +49,10 @@ The FitBit Tracker Insights project offers valuable insights into consumer behav
 
 For inquiries, feedback, or collaboration opportunities, feel free to reach out:
 
-🐦 Twitter: https://twitter.com/NdiranguMuturi1
-💼 LinkedIn: https://www.linkedin.com/in/isaac-muturi-3b6b2b237
-🔗 GitHub: https://github.com/Isaac-Ndirangu-Muturi-749
-📧 Email: ndirangumuturi749@gmail.com
+	🐦 Twitter: https://twitter.com/NdiranguMuturi1
+	💼 LinkedIn: https://www.linkedin.com/in/isaac-muturi-3b6b2b237
+	🔗 GitHub: https://github.com/Isaac-Ndirangu-Muturi-749
+	📧 Email: ndirangumuturi749@gmail.com
 
 Join me on this tech journey, and let's explore the world of data together! 🚀🌟
 
