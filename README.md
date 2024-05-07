@@ -49,10 +49,13 @@ The FitBit Tracker Insights project offers valuable insights into consumer behav
 
 For inquiries, feedback, or collaboration opportunities, feel free to reach out:
 
-	🐦 Twitter: https://twitter.com/NdiranguMuturi1
-	💼 LinkedIn: https://www.linkedin.com/in/isaac-muturi-3b6b2b237
-	🔗 GitHub: https://github.com/Isaac-Ndirangu-Muturi-749
-	📧 Email: ndirangumuturi749@gmail.com
+🐦 Twitter: https://twitter.com/NdiranguMuturi1
+
+💼 LinkedIn: https://www.linkedin.com/in/isaac-muturi-3b6b2b237
+
+🔗 GitHub: https://github.com/Isaac-Ndirangu-Muturi-749
+
+📧 Email: ndirangumuturi749@gmail.com
 
 Join me on this tech journey, and let's explore the world of data together! 🚀🌟
 
